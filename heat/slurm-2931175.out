@@ -1,0 +1,1 @@
+/var/spool/slurmd/job2931175/slurm_script: line 24: 1838246 Segmentation fault      (core dumped) ./heat_omp < heat.inp

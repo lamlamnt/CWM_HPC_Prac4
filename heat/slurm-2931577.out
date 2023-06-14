@@ -1,0 +1,16 @@
+How big is the problem?
+How many timesteps?
+Value of nu (positive and less than 0.5)?
+At timestep     0 the maxmimum change in the solution is 4.8360094e-10 
+At timestep  1000 the maxmimum change in the solution is 4.8360072e-10 
+At timestep  2000 the maxmimum change in the solution is 4.8360049e-10 
+At timestep  3000 the maxmimum change in the solution is 4.8360027e-10 
+At timestep  4000 the maxmimum change in the solution is 4.8360005e-10 
+At timestep  5000 the maxmimum change in the solution is 4.8359983e-10 
+At timestep  6000 the maxmimum change in the solution is 4.8359960e-10 
+At timestep  7000 the maxmimum change in the solution is 4.8359938e-10 
+At timestep  8000 the maxmimum change in the solution is 4.8359905e-10 
+At timestep  9000 the maxmimum change in the solution is 4.8359883e-10 
+At timestep  9999 the maxmimum change in the solution is 4.8359861e-10 
+The RMS error in the final solution is 2.0828139e-05 
+Process time = 2.230572e+00 s
